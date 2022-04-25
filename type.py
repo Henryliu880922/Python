@@ -22,9 +22,21 @@ print('''
 星期二
 星期三''')
 
-#list
+#list 串列
 
 print ([1,"Taipei" ,2,"Tokyo"])
+
+# tuple 序對
+
+print((1,"Tapei",2,"Tokyo"))
+
+#set 集合
+
+print({1,"台北",2,"東京"})
+
+#dict 字典
+
+print({"ID":"1","name":"小丸子"})
 
 #資料型別
 print(type(1000))
