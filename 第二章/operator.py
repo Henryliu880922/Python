@@ -96,3 +96,13 @@ print(5<4 or 3<2) #5小於4為False，3小於2為False，False or False會得到
 #邏輯運算子 not
 print(not 5>4) #5大於4為True，not True會得到False
 print(not 5<4) #5小於4為False，not False會得到True
+
+#其他運算子
+myName="Jean"
+print(myName[0])
+print(myName[1])
+import math
+print(math.pi)
+r1=10;r2=100
+print(r1)
+print(r2)
