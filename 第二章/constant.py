@@ -1,7 +1,4 @@
 #定義常數
 
-#ch02\area1.py
-PI=3.14159
-radius=10
-print(PI*radius*radius)
+#Python 並沒有定義常數的語法，但還是可以照慣例使用全部大寫來替常數命名，好區別一般的常數，請看area1.py
 
