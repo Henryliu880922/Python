@@ -12,3 +12,4 @@ print(eval("(1+2)*(3+4)"))
 PI=3.14159
 radius=eval(input("請輸入圓半徑："))
 print("半徑為",radius,"的圓面積為",PI*radius*radius)
+
