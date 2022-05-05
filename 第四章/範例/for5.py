@@ -1,6 +1,3 @@
-import re
-
-
 num=eval(input("請輸入1~100的正整數："))
 result=1
 for i in range(1,num+1):
