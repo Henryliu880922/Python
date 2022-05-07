@@ -7,6 +7,3 @@ print(eval("123"))
 print(eval("-10.5"))
 print(eval("1+2"))
 print(eval("(1+2)*(3+4)"))
-
-
-
